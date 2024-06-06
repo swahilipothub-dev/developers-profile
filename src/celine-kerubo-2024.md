@@ -1,7 +1,7 @@
 # Celine Kerubo
 
 ## GitHub Username
-[achingachris](https://github.com/juice2227)
+[Celine kerubo](https://github.com/juice2227)
 
 ## Favorite Programming Language
 
