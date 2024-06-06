@@ -2,8 +2,8 @@
 
 ## GitHub Username and Link
 
-Username: LewisMK
-Link: [GitHub Link](https://github.com/LewisMK)
+- Username: LewisMK
+- [GitHub Link](https://github.com/LewisMK)
 
 ## Favorite Programming Languages
 
