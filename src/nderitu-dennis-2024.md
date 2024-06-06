@@ -2,12 +2,13 @@
 
 ## Github usename
 
-[GitHub](https://github.com/Nderitu-Dennis)
+[Nderitu-Dennis](https://github.com/Nderitu-Dennis)
 
 ## Favourite programming language
 
--Java
--JavaScript
+Java
+JavaScript
+
 
 ## Tech stack
 
