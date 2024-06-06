@@ -5,15 +5,15 @@
 [TyroneMrenje](https://github.com/TyroneMrenje)
 
 ## Favorite Programming Language
-Python
-javaScript
-SQL
-Java
+-Python
+-JavaScript
+-SQL
+-Java
 
 ## My Tech Stack
-Django
-Postgre SQL
-React
+-Django
+-Postgre SQL
+-React
 
 
 
