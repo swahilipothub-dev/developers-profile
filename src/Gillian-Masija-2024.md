@@ -1,7 +1,7 @@
 # Gillian Masija
 
 ## GitHub Username
-[achingachris](https://github.com/Gillmasija)
+[Gillian Masija](https://github.com/Gillmasija)
 
 ## Favorite Programming Language
 
