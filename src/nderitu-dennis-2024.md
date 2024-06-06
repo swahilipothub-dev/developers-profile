@@ -6,18 +6,18 @@
 
 ## Favourite programming language
 
-Java
-JavaScript
+* Java
+* JavaScript
 
 
 ## Tech stack
 
--React/Next.js
--SpringBoot
--Git and GitHub
--Angular
+- React/Next.js
+- SpringBoot
+- Git and GitHub
+- Angular
 
-# Portfolio
+
 
 ## LinkedIn
 
