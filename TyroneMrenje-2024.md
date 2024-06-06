@@ -18,7 +18,7 @@
 
 
 ## LinkedIn
-[Tyrone Mrenje](https://www.linkedin.com/in/tyrone-mrenje-35314)
+[Tyrone Mrenje](www.linkedin.com/in/tyrone-mrenje-35314b310)
 
 ## Resume
 [Resume](https://docs.google.com/document/d/1AF1sUrN50JYs2Gti9AJm7INs5HGO3NfnIqlWmfkqFhU/edit?usp=sharing)
