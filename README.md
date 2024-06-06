@@ -29,3 +29,4 @@
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
 | Chris Achinga           | [Profile](src/chris-achinga-2021.md)       |
 
+| Sellestine Anyango          | [Profile](src/sellestine-anyango-2024.md)       |
