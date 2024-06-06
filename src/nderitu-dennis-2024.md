@@ -21,7 +21,7 @@
 
 ## LinkedIn
 
-[Dennis Nderitu](www.linkedin.com/in/dennis-nderitu-a23766266)
+[DENNIS NDERITU](www.linkedin.com/in/dennis-nderitu-a23766266)
 
 ## Resume
 
