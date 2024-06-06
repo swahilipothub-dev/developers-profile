@@ -1,6 +1,6 @@
 # Dennis Nderitu
 
-## Github usename
+## Github username
 
 [Nderitu-Dennis](https://github.com/Nderitu-Dennis)
 
