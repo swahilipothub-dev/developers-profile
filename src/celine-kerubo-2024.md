@@ -14,6 +14,7 @@
 
 - React/Next.JS
 - Git and GitHub
+- My Sql
 
 
 
