@@ -1,0 +1,32 @@
+# Dennis Nderitu
+
+## Github usename
+
+[GitHub](https://github.com/Nderitu-Dennis)
+
+## Favourite programming language
+
+-Java
+-JavaScript
+
+## Tech stack
+
+-React/Next.js
+-SpringBoot
+-Git and GitHub
+-Angular
+
+# Portfolio
+
+## LinkedIn
+
+[Dennis Nderitu](www.linkedin.com/in/dennis-nderitu-a23766266)
+
+## Resume
+
+[Dennis Nderitu](https://docs.google.com/document/d/1DjSFVyWyAikEGAcmzJH-nKL44ZBuv0mceKoGZcKa_dM/edit#heading=h.jjb176pjw15x)
+
+## Professional Introduction
+
+I'm a Software Engineering student at Multimedia University of Kenya on an exciting journey of learning and exploration in the world of code. Eager to connect with fellow enthusiasts and explore the endless possibilities in the tech realm. Let's connect and learn together!
+Currently on Industrial attachment at Swahilipot Hub foundation.
