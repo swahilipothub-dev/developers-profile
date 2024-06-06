@@ -4,7 +4,7 @@
 
 [Nderitu-Dennis](https://github.com/Nderitu-Dennis)
 
-## Favourite programming language
+##  programming languages
 
 * Java
 * JavaScript
@@ -21,7 +21,7 @@
 
 ## LinkedIn
 
-[DENNIS NDERITU](www.linkedin.com/in/dennis-nderitu-a23766266)
+[DENNIS NDERITU](www.linkedin.com/in/dennis-nderitu-a23766266/)
 
 ## Resume
 
