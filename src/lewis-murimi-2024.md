@@ -30,7 +30,7 @@
 
 ### Portfolio
 
-[Portfolio](kothe.hasnode.dev)
+[Portfolio](kothe.hashnode.dev)
 
 ## Professional Introduction
 
