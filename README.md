@@ -28,5 +28,5 @@
 | Phewrine Atieno    | [Profile](src/phewrine-atieno-2023.md)|
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
 | Chris Achinga           | [Profile](src/chris-achinga-2021.md)       |
-| Celine Kerubp          | [Profile](src/celine-kerubo-2024.md)       |
+| Celine Kerubo         | [Profile](src/celine-kerubo-2024.md)       |
 
