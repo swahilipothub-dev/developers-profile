@@ -28,6 +28,6 @@
 | Phewrine Atieno    | [Profile](src/phewrine-atieno-2023.md)|
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
 | Chris Achinga           | [Profile](src/chris-achinga-2021.md)       |
-| Leonard Festus     | [Profile](src/leonard-festus-2024.md)|
+| Leonard Festus     | [Profile](src/Leonard-festus-2024.md)|
 
 
