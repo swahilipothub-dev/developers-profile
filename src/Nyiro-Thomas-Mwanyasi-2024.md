@@ -1,11 +1,17 @@
-https://github.com/Nyiro21
-www.linkedin.com/in/thomas-mwanyasi
+## Thomas Mwanyasi
 
-       favorite language
-   python,javascript,nex.js,c++ java    
+[GitHub](https://github.com/Nyiro21) | [LinkedIn](www.linkedin.com/in/thomas-mwanyasi)
 
-https://docs.google.com/document/d/1sQWxM_9J2L0b0nSz16fDd-gLtvpteovfA8fIn_919Ao/edit?usp=sharing
+**Favorite Programming Languages:**
 
- Short Professional Introduction
- 
- I'm enthusiastic about applying my knowledge to solve real-world problems. Though I'm still building my skillset, I'm a fast learner with a strong work ethic. I'm particularly interested in Database Management . My goal is to ensure that databases are efficient, reliable, and secure.. JOUST's focus on science and technology aligns perfectly with my desire to develop a strong foundation for a successful career in BIS.
+* Python
+* JavaScript
+* Next.js
+* C++
+* Java
+
+**Resume:** [My Resume](https://docs.google.com/document/d/1sQWxM_9J2L0b0nSz16fDd-gLtvpteovfA8fIn_919Ao/edit?usp=sharing)
+
+**Short Professional Introduction**
+
+I'm an enthusiastic individual eager to apply my knowledge to solve real-world problems. While I'm still developing my skillset, I'm a fast learner with a strong work ethic. I'm particularly interested in Database Management and ensuring that databases are efficient, reliable, and secure. Jaramogi Oginga Odinga University of Science and Technology's (JOUST) focus on science and technology perfectly aligns with my desire to develop a strong foundation for a successful career in Business Information Systems (BIS).
