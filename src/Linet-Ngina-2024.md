@@ -3,7 +3,7 @@
 
 ## Github Profile Link
 [Linet Ngina](https://github.com/LinetNgina)
-c
+
 ## Programming Languages 
       -CSS, 
       -Javascript, 
