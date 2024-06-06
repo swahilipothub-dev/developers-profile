@@ -3,12 +3,16 @@ Github username: bongoyedaniel
 ### Github link: 
 [link](https://github.com/bongoyedaniel)
 
-### Favorite Programming Languages and Tech Stack
-Java,javascript,C#
+### Favorite Programming Languages and 
+Java,javascript,TypeScript
+
+### Tech Stack
 Nextjs
 
-### LinkedIn, CV, and Portfolio Links
+### LinkedIn
 [LinkeIn](https://www.linkedin.com/in/bongoye-daniel)
+
+### CV
 [CV](https://docs.google.com/document/d/1cj0JX_m1ltZMbnyo-BM4Br8TwxRI7QiDoCiJqZZrEoU/edit?usp=sharing)
 
 ### Introduction
