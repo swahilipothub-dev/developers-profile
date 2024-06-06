@@ -27,7 +27,6 @@
 | Muniir             | [Profile](src/muniir2023.md)          |
 | Phewrine Atieno    | [Profile](src/phewrine-atieno-2023.md)|
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
-| Chris Achinga           | [Profile](src/chris-achinga-2021.md)       |
-| kelvin kitonyo     | [Profile](src/kelvin-kitonyo-2024.md) |
-
-
+| Lewis Murimi       | [Profile](src/lewis-murimi-2024.md)   |
+| kitonyo Kelvin     | [Profile](src/kelvin-kitonyo-2024.md) |
+| Chris Achinga      | [Profile](src/chris-achinga-2021.md)  |
