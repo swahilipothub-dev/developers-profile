@@ -24,6 +24,7 @@
 | Bismarck Momanyi   | [Profile](src/bismarckmomanyi-2023.md)|
 | Christopher Mwalimo| [Profile](src/christopher-mwalimo-2023.md) |
 | Mohamed            | [Profile](src/mohamed-2023.md)        |
+| Abubakar Mohamed   | [Profile](src/abubakar-mohamed-2024.md)  |
 | Muniir             | [Profile](src/muniir2023.md)          |
 | Phewrine Atieno    | [Profile](src/phewrine-atieno-2023.md)|
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
