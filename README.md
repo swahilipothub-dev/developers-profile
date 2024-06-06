@@ -27,5 +27,7 @@
 | Muniir             | [Profile](src/muniir2023.md)          |
 | Phewrine Atieno    | [Profile](src/phewrine-atieno-2023.md)|
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
-| Chris Achinga           | [Profile](src/chris-achinga-2021.md)       |
+| Chris Achinga           | [Profile](src/chris-achinga-2021.md)  
+| Job Wafula         | [Profile](src/job-wafula-2024.md)  
+  
 
