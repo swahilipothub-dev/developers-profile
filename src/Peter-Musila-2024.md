@@ -11,7 +11,7 @@
 -JavaScript
 -Java
 
-## My Tech Stackk
+## My Tech Stack
 
 -LAMP
 -Django
