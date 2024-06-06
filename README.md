@@ -28,5 +28,6 @@
 | Phewrine Atieno    | [Profile](src/phewrine-atieno-2023.md)|
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
 | Chris Achinga           | [Profile](src/chris-achinga-2021.md)       |
- George Maluki          | [Profile](src/george-maluki-2024.md
- )
+ George Maluki          | [profile](src/george-maluki-2024.md)
+
+
