@@ -18,6 +18,7 @@
 | Sammy Kioko        | [Profile](src/Sammy-Kioko-2023.md)    |
 | Stanley Thuita     | [Profile](src/Stanley-Thuita-2023.md) |
 | Steve Arnold       | [Profile](src/Steve_Arnold_2023.md)   |
+| Awadh Mohamed      | [Profile](src/awadh-mohamed-2024.md)  |
 | Swabrina           | [Profile](src/Swabrina-2023.md)       |
 | Aaron Charo        | [Profile](src/aaron_charo_2023.md)    |
 | Aholi Danson       | [Profile](src/aholi-danson-2023.md)   |
@@ -28,4 +29,5 @@
 | Phewrine Atieno    | [Profile](src/phewrine-atieno-2023.md)|
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
 | Chris Achinga           | [Profile](src/chris-achinga-2021.md)       |
+
 
