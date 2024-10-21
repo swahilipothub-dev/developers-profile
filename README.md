@@ -27,6 +27,7 @@
 | Muniir             | [Profile](src/muniir2023.md)          |
 | Phewrine Atieno    | [Profile](src/phewrine-atieno-2023.md)|
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
+| Lewis Murimi       | [Profile](src/lewis-murimi-2024.md)   |
 | Zipporah Rehema          | [Profile](src/zipporah-rehema-2024.md)
 | Sanaipei Lenapunya          | [Profile](src/sanaipei-lenapunya-2024.md)       |
 | Eli Kiprop           | [Profile](src/eli-kiprop-2024.md)       |
