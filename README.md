@@ -27,6 +27,7 @@
 | Muniir             | [Profile](src/muniir2023.md)          |
 | Phewrine Atieno    | [Profile](src/phewrine-atieno-2023.md)|
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
+| Gladys Mwake         | [Profile](src/gladys-mwake-2024.md)       |
 | Gillian Masija         | [Profile](src/Gillian-Masija-2024.md)       |
 | Victor Victor      | [Profile](src/victor-kedenge-2024.md) |
 | Mary Wausi         | [Profile](src/mary-wausi-2024.md)       |
