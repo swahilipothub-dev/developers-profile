@@ -32,3 +32,5 @@
 | Lewis Murimi       | [Profile](src/lewis-murimi-2024.md)   |
 | Chris Achinga      | [Profile](src/chris-achinga-2021.md)  |
 | Jacob Kyalo         | [Profile](src/jacob-kyalo-2024.md)         |
+| John Brown          | [Profile](src/John-Brown-2024.md)          |
+
