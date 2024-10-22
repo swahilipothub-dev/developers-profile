@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Swahilipot Developers Profile Board
 
-## Getting Started
+[HOW TO CONTRIBUTE](/contributions.md)
 
-First, run the development server:
+# Developer Profiles
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| No  | Name                | Profile Link                                    |
+| --- | ------------------- | ----------------------------------------------- |
+| 1   | Abraham John        | [Profile](profiles/ABRAHAM-JOHN-2023.md)        |
+| 2   | Aisha               | [Profile](profiles/AISHA-2023.md)               |
+| 3   | Elijah Wambua       | [Profile](profiles/Elijah-wambua-2023.md)       |
+| 4   | Hastings Waita      | [Profile](profiles/Hastings-Waita-2023.md)      |
+| 5   | Leone               | [Profile](profiles/LEONE-2023.md)               |
+| 6   | Mary Kinyanjui      | [Profile](profiles/Mary-Kinyanjui-2023.md)      |
+| 7   | Mikongoi Warren     | [Profile](profiles/Mikongoi-Warren-2023.md)     |
+| 8   | Okoth Abel          | [Profile](profiles/Okothabel-2023.md)           |
+| 9   | Omar Hemedi         | [Profile](profiles/Omar-Hemedi-2023.md)         |
+| 10  | Sammy Kioko         | [Profile](profiles/Sammy-Kioko-2023.md)         |
+| 11  | Stanley Thuita      | [Profile](profiles/Stanley-Thuita-2023.md)      |
+| 12  | Steve Arnold        | [Profile](profiles/Steve_Arnold_2023.md)        |
+| 13  | Swabrina            | [Profile](profiles/Swabrina-2023.md)            |
+| 14  | Aaron Charo         | [Profile](profiles/aaron_charo_2023.md)         |
+| 15  | Aholi Danson        | [Profile](profiles/aholi-danson-2023.md)        |
+| 16  | Bismarck Momanyi    | [Profile](profiles/bismarckmomanyi-2023.md)     |
+| 17  | Christopher Mwalimo | [Profile](profiles/christopher-mwalimo-2023.md) |
+| 18  | Mohamed             | [Profile](profiles/mohamed-2023.md)             |
+| 19  | Muniir              | [Profile](profiles/muniir2023.md)               |
+| 20  | Nathan Mnangat      | [Profile](profiles/Nathan-Mnangat-2024.md)      |
+| 21  | Phewrine Atieno     | [Profile](profiles/phewrine-atieno-2023.md)     |
+| 22  | Suleiman            | [Profile](profiles/suleiman-2023.md)            |
+| 23  | Chris Achinga       | [Profile](profiles/chris-achinga-2021.md)       |
