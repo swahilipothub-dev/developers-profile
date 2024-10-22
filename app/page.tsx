@@ -13,7 +13,7 @@ export default function Home() {
         </p>
       </div>
       <div className="grid grid-cols-2 space-x-6">
-        <Link href="/">
+        <Link href="/how-to-contribute">
           <div className="text-center text-md border p-4 hover:duration-200 hover:shadow-lg hover:transition-all">How to contribute</div>
         </Link>
         <Link href="/contributors">
