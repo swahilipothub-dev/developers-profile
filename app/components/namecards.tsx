@@ -16,7 +16,7 @@ const UserCard: React.FC = () => {
   }, []);
 
   return (
-    <div className="grid grid-cols-2 md:grid-cols-3 grid-flow-row mt-10">
+    <div className="grid grid-cols-1 md:grid-cols-3 grid-flow-row mt-10">
       {users.map((user, index) => (
         <div 
             key={index} 
