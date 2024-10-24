@@ -14,10 +14,13 @@ export default function Home() {
       </div>
       <div className="grid grid-cols-2 space-x-6">
         <Link href="/how-to-contribute">
-          <div className="text-center text-md border p-4 hover:duration-200 hover:shadow-lg hover:transition-all">How to contribute</div>
+          <div className="text-center text-md border p-4 hover:duration-200 hover:shadow-lg hover:transition-all mb-3">How to contribute</div>
         </Link>
         <Link href="/contributors">
-          <div className="text-center text-md border p-4 hover:duration-200 hover:shadow-lg hover:transition-all">Contributors</div>
+          <div className="text-center text-md border p-4 hover:duration-200 hover:shadow-lg hover:transition-all mb-3">Contributors</div>
+        </Link>
+        <Link href="/projects">
+          <div className="text-center text-md border p-4 hover:duration-200 hover:shadow-lg hover:transition-all mb-3">Contribute to these projects</div>
         </Link>
       </div>
     </main>
