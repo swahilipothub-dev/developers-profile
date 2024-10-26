@@ -14,5 +14,9 @@ export const contributors = [
     {
         "name": "Ismael Aboud",
         "github": "ismaelaboud"
+    },
+    {
+        "name": "Patrick Mwangi",
+        "github": "frashid17"
     }
 ]
