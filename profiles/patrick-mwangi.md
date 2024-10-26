@@ -16,10 +16,7 @@
 ## Portfolio
 
 ### My LinkedIn
-[YourLinkedIn](https://www.linkedin.com/in/patrick-wanjiku-979381150/)
-
-### My Resume
-[My Resume](https://docs.google.com/document/d/your_resume_link/edit?usp=sharing)
+[patrick](https://www.linkedin.com/in/patrick-wanjiku-979381150/)
 
 ### My Online Portfolio
 [My Portfolio](https://frashid17.github.io/portfolio/)
