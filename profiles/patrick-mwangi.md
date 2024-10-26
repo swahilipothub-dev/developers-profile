@@ -1,7 +1,7 @@
 # Patrick Mwangi
 
 ## GitHub Username
-[YourGitHubUsername](https://github.com/frashid17)
+[frashid17](https://github.com/frashid17)
 
 ## Favorite Programming Languages
 
