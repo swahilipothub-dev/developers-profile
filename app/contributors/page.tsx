@@ -4,7 +4,6 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { useContributerModal } from "@/hooks/use-contributer-modal";
 import { ContributerModal } from "../components/modals/contributer-modal"; // Import the modal
-import { PlusCircle } from "lucide-react";
 
 export default function Contributors() {
   const contributerModal = useContributerModal();
