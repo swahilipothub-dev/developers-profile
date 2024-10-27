@@ -29,4 +29,4 @@
 | 21  | Phewrine Atieno     | [Profile](profiles/phewrine-atieno-2023.md)     |
 | 22  | Suleiman            | [Profile](profiles/suleiman-2023.md)            |
 | 23  | Chris Achinga       | [Profile](profiles/chris-achinga-2021.md)       |
-| 24  | Patrick Mwangi      | [Profile](profiles/patrick-mwangi.md)           |
+| 24  | Patrick Mwangi      | [Profile](profiles/patrick-mwangi2024.md)           |
