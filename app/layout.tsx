@@ -1,7 +1,10 @@
-import type { Metadata } from "next";
+// app/layout.tsx
+
+"use client"; // Keep this to use React hooks
+
 import localFont from "next/font/local";
+import { useState } from "react";
 import "./globals.css";
-//import Navbar from "./components/navbarComponent";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -14,22 +17,24 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
-export const metadata: Metadata = {
-  title: "Swahilipot Tech x Hacktoberfest",
-  description: "This website has been created by the SPH Engineering team to enable and show developers how to contribute to open-source projects.",
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const [darkMode, setDarkMode] = useState(false);
+
   return (
-    <html lang="en">
+    <html lang="en" className={darkMode ? "dark" : ""}>
       <body
-        className={`container mx-auto ${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`container mx-auto ${geistSans.variable} ${geistMono.variable} antialiased bg-white text-black dark:bg-gray-900 dark:text-white transition-colors duration-300`}
       >
-        {/*<Navbar/>*/}
+        <button
+          onClick={() => setDarkMode(!darkMode)}
+          className="absolute top-5 right-5 border p-2 rounded-md"
+        >
+          {darkMode ? "Light Mode" : "Dark Mode"}
+        </button>
         {children}
       </body>
     </html>
