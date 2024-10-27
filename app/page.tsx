@@ -22,6 +22,9 @@ export default function Home() {
         <Link href="/projects">
           <div className="text-center text-md border p-4 hover:duration-200 hover:shadow-lg hover:transition-all mb-3">Contribute to these projects</div>
         </Link>
+        <Link href="/activityfeed">
+          <div className="text-center text-md border p-4 hover:duration-200 hover:shadow-lg hover:transition-all mb-3">Repository Activity Feed</div>
+        </Link>
       </div>
     </main>
   );
