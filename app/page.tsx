@@ -1,7 +1,9 @@
 import Link from "next/link";
+import Footer from "./components/footer";
 
 export default function Home() {
   return (
+    <>
     <main className="container mx-auto flex flex-col items-center justify-center min-h-screen p-5">
       <section>
         <h1 className="text-2xl text-center py-5">SPH Engineering x Hacktoberfest</h1>
@@ -28,5 +30,7 @@ export default function Home() {
         </Link>
       </section>
     </main>
+    <Footer />
+    </>
   );
 }
