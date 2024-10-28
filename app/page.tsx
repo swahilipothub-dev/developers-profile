@@ -23,6 +23,9 @@ export default function Home() {
         <Link href="/Gallery" className="text-center text-md border p-4 transition hover:shadow-lg mb-3">
           Gallery
         </Link>
+        <Link href="/activityfeed">
+          <div className="text-center text-md border p-4 hover:duration-200 hover:shadow-lg hover:transition-all mb-3">Repository Activity Feed</div>
+        </Link>
       </section>
     </main>
   );
