@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Chat from "./components/Chat"; // Import the Chat component
 
 export default function Home() {
   return (
@@ -23,6 +24,12 @@ export default function Home() {
         <Link href="/Gallery" className="text-center text-md border p-4 transition hover:shadow-lg mb-3">
           Gallery
         </Link>
+      </section>
+      
+      {/* Add the Chat component here */}
+      <section className="mt-10 w-full max-w-lg">
+        <h2 className="text-xl text-center py-5">Contributor Chat</h2>
+        <Chat /> {/* Chat component to show real-time chat */}
       </section>
     </main>
   );
