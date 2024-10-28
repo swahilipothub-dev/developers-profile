@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Image from "next/image"; // Import Image from next/image
 import { Card, CardContent } from "@/components/ui/card";
 import {
   Carousel,
@@ -29,7 +30,7 @@ const images = [
 ];
 
 // Carousel component to showcase images with their descriptions
-export function CarouselDemo() {
+function CarouselDemo() {
   return (
     <Carousel className="w-full max-w-xl">
       <CarouselContent>
@@ -38,8 +39,15 @@ export function CarouselDemo() {
             <div className="p-1">
               <Card>
                 <CardContent className="flex flex-col items-center p-6">
-                  {/* Display the image */}
-                  <img src={src} alt={description} className="rounded-lg mb-4 h-auto w-full" />
+                  {/* Use <Image /> instead of <img /> */}
+                  <Image 
+                    src={src} 
+                    alt={description} 
+                    className="rounded-lg mb-4 h-auto w-full" 
+                    width={500} // Set a specific width
+                    height={300} // Set a specific height
+                    priority // Optionally load the image with priority
+                  />
                   {/* Display the description */}
                   <p className="text-lg text-center">{description}</p>
                 </CardContent>
