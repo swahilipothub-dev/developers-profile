@@ -4,7 +4,9 @@ export default function Home() {
   return (
     <main className="container mx-auto flex flex-col items-center justify-center min-h-screen p-5">
       <section>
-        <h1 className="text-2xl text-center py-5">SPH Engineering x Hacktoberfest</h1>
+      <h1 className="text-2xl text-center py-5 text-green-500">
+  SPH Engineering x Hacktoberfest
+</h1>
         <p className="text-center text-md pb-5 max-w-prose mx-auto">
           Welcome to the SPH Engineering x Hacktoberfest website. To be featured as a contributor, you have to clear an issue,
           create a PR, and have it approved for your name to make it to the Contributors wall.
