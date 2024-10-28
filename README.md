@@ -31,3 +31,4 @@
 | 23  | Chris Achinga       | [Profile](profiles/chris-achinga-2021.md)       |
 | 24  | Patrick Mwangi      | [Profile](profiles/patrick-mwangi.md)           |
 | 25  | Nickson Simiyu      | [Profile](profiles/Nickson-Simiyu_2024.md)      |
+| 26  | Milka Warigia       | [Profile](profiles/milka-2024.md)               |

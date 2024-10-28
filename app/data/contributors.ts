@@ -18,5 +18,10 @@ export const contributors = [
     {
         "name": "Patrick Mwangi",
         "github": "frashid17"
+    },
+    {
+        "name": "Milka Warigia",
+        "github": "MilkaWarigia"
     }
+
 ]
