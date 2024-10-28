@@ -2,7 +2,7 @@
 
 [HOW TO CONTRIBUTE](/contributions.md)
 
-# Developer Profiles
+## Developer Profiles
 
 | No  | Name                | Profile Link                                    |
 | --- | ------------------- | ----------------------------------------------- |
