@@ -20,6 +20,10 @@ export const contributors = [
         "github": "frashid17"
     },
     {
+        "name": "Patrick Mwangi",
+        "github": "frashid17"
+    },
+    {
         "name": "Nickson Simiyu",
         "github": "Nickson-Simiyu"
     }
