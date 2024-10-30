@@ -22,5 +22,9 @@ export const contributors = [
     {
         "name": "Nickson Simiyu",
         "github": "Nickson-Simiyu"
-    }
+    },
+{
+    "name": "Ashley Obano",
+    "github":"okish04"
+}
 ]
